@@ -1,2 +1,1 @@
-# 19FALL_DataScience_TA
-repository for TA of Data Science course, 19 Fall, Korea University
+This repository if for preparation of Data Science Ⅰ course, 19 Fall, Korea University
