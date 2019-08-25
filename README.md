@@ -6,6 +6,6 @@ All tutorial files were formatted in `.ipynb` (IPython Notebook), and well-orgin
 
 These materials were intended to preparation of undergraduate course "Data Science Ⅰ", provided by Department of Statistics, Korea University. If you have any questions or suggestions, please contact [lhj6363@korea.ac.kr](lhj6363@korea.ac.kr)
 
-Materials were written both in Korean and English (not available now).
+Materials were written both in Korean and English.
 For Korean users, notebooks are prepared in `Kor` directory.
-For Englich users, notebooks are prepared in `Eng` directory (not available now).
+For Englich users, notebooks are prepared in `Eng` directory.
